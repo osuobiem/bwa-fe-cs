@@ -4,7 +4,7 @@ This is a time-boxed project, lasting 4-5 hours, for the [Build With Assembly](h
 
 The application was written with [Typescript](https://www.typescriptlang.org/).
 
-**Try the application** [**here**](https://bwa-fe-g27hdea85-osuobiem.vercel.app/) **🚀**
+**Try the application** [**here**](https://bwa-fe-cs.vercel.app/) **🚀**
 
 ### Setup and Execution
 
