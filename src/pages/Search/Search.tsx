@@ -1,3 +1,9 @@
+import {Loader} from "../../components/Loader/Loader";
+
 export const Search = () => {
-  return <></>;
+  return (
+    <>
+      <Loader show={true} />
+    </>
+  );
 };
