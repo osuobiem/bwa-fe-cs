@@ -18,8 +18,11 @@ Please make sure you have `npm` installed in order to run the commands in this l
 ### Usage
 
 - This is a very basic application, it just has a search bar and two radio buttons to switch between search categories. **User** is selected by default, switch to **Organization** if you want to search for an organization.
-- ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/e451dabb5fa1d8e89f7af33cf07be9c03aa14c0c1de34b87.png)
-- When you type into the search bar and click on the **Search** button to see the results. You can toggle between **grid** and **list** views for convenience.![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f864060b9ed950b2c3642a1f4028efe942bfa57d9bf78384.png)![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/998fb0f109bd72543df9ad9c2842425ef92b7e7667449501.png)
+  <img width="1380" alt="Screenshot 2023-06-12 at 17 47 14" src="https://github.com/osuobiem/bwa-fe-cs/assets/46307395/d2497130-e7b8-414e-9454-29db3ad6831f">
+- When you type into the search bar and click on the **Search** button to see the results. You can toggle between **grid** and **list** views for convenience.
+  <img width="1439" alt="Screenshot 2023-06-12 at 17 58 03" src="https://github.com/osuobiem/bwa-fe-cs/assets/46307395/79f80ee1-bae7-42c0-beaa-61262ec1663c">
+  <img width="1439" alt="Screenshot 2023-06-12 at 17 58 03" src="https://github.com/osuobiem/bwa-fe-cs/assets/46307395/f5f42264-4599-41bc-a4e5-a787b0e37d18">
+
 - You can also pass a search keyword in the url like so `https://demo-url.com/{keyword}`
 
 ### Dependencies
